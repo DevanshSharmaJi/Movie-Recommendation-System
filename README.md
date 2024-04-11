@@ -1,10 +1,28 @@
+# Movie Recommendation System
+
 This is a Machine Learning based movie recommendation system to provide personalized movie suggestions based on user preferences.
-Libraries Used :
---> Pandas
---> NumPy
---> scikit-learn
---> re
---> ipywidgets
-The system processes user inputs, analyzes preferences using ML models, and computes movie similarity to generate personalized recommendations. Users interact through an intuitive interface.
-Maintained by Devansh Sharma.
-Feedback are welcome.
+
+## Dataset Used
+
+ https://files.grouplens.org/datasets/movielens/ml-25m.zip
+
+## Libraries Used
+
+- Pandas
+- NumPy
+- scikit-learn
+- re
+- ipywidgets
+
+## Features
+
+- User preference analysis using ML models
+- Movie similarity computation
+- Personalized recommendations
+- Intuitive interface for user interaction
+
+## Maintained by
+
+Devansh Sharma
+
+Feedback is welcome.
