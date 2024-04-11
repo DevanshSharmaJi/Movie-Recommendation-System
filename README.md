@@ -14,13 +14,6 @@ This is a Machine Learning based movie recommendation system to provide personal
 - re
 - ipywidgets
 
-## Features
-
-- User preference analysis using ML models
-- Movie similarity computation
-- Personalized recommendations
-- Intuitive interface for user interaction
-
 ## Maintained by
 
 Devansh Sharma
